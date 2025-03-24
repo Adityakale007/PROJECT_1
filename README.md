@@ -4,8 +4,11 @@ Project is a web brochure for a gym (X-FACTOR GYM), built using HTML, CSS, and T
 Technologies Used
 
 ✅ HTML5 – Structure of the website.
+
 ✅ TailwindCSS – Modern, responsive styling.
+
 ✅ Google Maps API – Location embedding.
+
 ✅ Responsive Design – Mobile-friendly layout.
 
 Purpose of the Project
