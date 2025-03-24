@@ -23,7 +23,11 @@ This frontend web brochure acts as an interactive online advertisement for the g
 Future Improvements & Enhancements
 
 🔹 Add JavaScript for interactive elements (e.g., membership plan toggles).
+
 🔹 Implement backend (Node.js/PHP) for handling form submissions.
+
 🔹 Include testimonials & success stories from gym members.
+
 🔹 Create a blog section for fitness tips & workout routines.
+
 🔹 Enhance SEO for better search engine ranking.
